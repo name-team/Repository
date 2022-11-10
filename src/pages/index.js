@@ -28,7 +28,6 @@ export default function Home() {
           </a>
           <a href='/ethanKissell' className='card'>
             <h3>Ethan Kissell &rarr;</h3>
-            <p>What am i doing? </p>
           </a>
           <a
             href='https://github.com/wangalec/website-template'
