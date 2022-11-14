@@ -29,6 +29,9 @@ export default function Home() {
           <a href='/ethanKissell' className='card'>
             <h3>Ethan Kissell &rarr;</h3>
           </a>
+          <a href='/huyphan' className='card'>
+            <h3>Huy Phan &rarr;</h3>
+          </a>
           <a
             href='https://github.com/wangalec/website-template'
             className='card'>
