@@ -11,7 +11,7 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_426,q_65,w_640/v1/clients/boulder/temp_3889ad49-604c-47d4-8041-201f2d6a6edc.jpg'
-            alt='huyphan'
+            alt='huyPhan'
           />
 
           <p className='description'>
